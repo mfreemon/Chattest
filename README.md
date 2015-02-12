@@ -2,10 +2,12 @@
 
 ## Overview
 
-The goal of this project is to simulate a chatwindow application.
+The goal of this project is to simulate an application chat-window.
 When initially building the simulation, I considered using an
 MVC framework such as Angular because of its ease of use when it comes to 
 data-binding. I settled with Jquery simply because it seemed like the quickest solution to accomplish the goal.
+
+Next step will be adding a node server to actually implement chat capability.
 
 ## Quirk
 
